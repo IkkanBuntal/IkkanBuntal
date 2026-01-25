@@ -6,11 +6,11 @@
 
 ###
 
-<img align="right" height="165" src="https://media1.tenor.com/m/fAVCE3Qu6s8AAAAd/astolfo-happy.gif"  />
+<img align="right" height="157" src="https://media1.tenor.com/m/fAVCE3Qu6s8AAAAd/astolfo-happy.gif"  />
 
 ###
 
-<p align="left">-<br>-<br>-<br>-</p>
+<p align="left">activity dan hobi<br>- Mencoba hal baru di percodingan<br>- Main game ke valo, minecraft, hsr dll<br>- Gw juga suka femboy :3<br>- Btw gw laki jangan harap  gw cewek</p>
 
 ###
 
