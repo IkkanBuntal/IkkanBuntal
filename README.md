@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-Saya siswa RPL (Rekayasa Perangkat Lunak) dan streamer yang senang mengeksplor teknologi & dunia game.
+Saya siswa RPL (Rekayasa Perangkat Lunak) dan streamer yang senang mengeksplorasi teknologi & dunia game.
 </p>
 
 ---
@@ -38,18 +38,16 @@ Saya siswa RPL (Rekayasa Perangkat Lunak) dan streamer yang senang mengeksplor t
 ---
 
 ### 📊 GitHub Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph.svg" />
+</p>
 <p align="center">Grafik kontribusi saya di GitHub</p>
 
 ---
 
 ### 📫 Contact
-- Instagram: [@username](https://instagram.com/username)
-- Twitch: [@username](https://twitch.tv/username)
+- Instagram: [@ikkanbuntal](https://www.instagram.com/ikkanbuntal)
+- Twitch: [@ikkanbuntal](https://www.twitch.tv/ikkanbuntal)
 - GitHub: [IkkanBuntal](https://github.com/IkkanBuntal)
 
 ---
