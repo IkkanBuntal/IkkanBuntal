@@ -9,7 +9,7 @@ Saya siswa RPL (Rekayasa Perangkat Lunak) dan streamer yang senang mengeksplor t
 ### 🛠 Activity & Hobi
 - Mencoba hal baru di coding
 - Main game: Valorant, Minecraft, HSR, dll
-- Eksperimen dengan project coding dan AI kecil-kecilan
+- Eksperimen dengan project coding dan belajar hal lain
 - Penyuka femboy :3 tapi bukan berati gw GAY, cuma suka crossdressing
 
 ---
