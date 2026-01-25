@@ -48,13 +48,11 @@ Saya siswa RPL (Rekayasa Perangkat Lunak) dan streamer yang senang mengeksplor t
 ---
 
 ### 📫 Contact
-- Instagram: [@username](https://instagram.com/username)
-- Twitch: [@username](https://twitch.tv/username)
+- Instagram: [@username](https://www.instagram.com/ikkanbuntal)
 - GitHub: [IkkanBuntal](https://github.com/IkkanBuntal)
 
 ---
 
 ### ⚡ Fun Fact
 - Selalu penasaran dengan hal baru di dunia coding & game
-- Bisa eksperimen kecil-kecilan dengan AI
-- Tetap laki-laki, tapi suka crossdressing 😎
+- Btw gw laki jangan harap gw cewek
