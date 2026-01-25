@@ -48,7 +48,7 @@ Saya siswa RPL (Rekayasa Perangkat Lunak) dan streamer yang senang mengeksplor t
 ---
 
 ### 📫 Contact
-- Instagram: [@username](https://www.instagram.com/ikkanbuntal)
+- Instagram: [@ikkanbuntal](https://www.instagram.com/ikkanbuntal)
 - GitHub: [IkkanBuntal](https://github.com/IkkanBuntal)
 
 ---
