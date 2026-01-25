@@ -1,9 +1,9 @@
-# 🕹️ Hi there, I'm IkkanBuntal! 
+# 🕹️ Hi, I'm IkkanBuntal! 
 ### 🚀 Pro Gamer & Full-stack Developer 
 
 ---
 
-### 🌑 My Activity Quest
+## 🎮 Current Quest: Coding Streak
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph.svg">
@@ -32,18 +32,15 @@
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🎨 Design & 3D Tools
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-### 🎮 Gaming Rig & Platforms
+### 🎮 Gaming & Hardware
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Epic Games](https://img.shields.io/badge/EpicGames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/RiotGames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 
 ---
@@ -66,15 +63,14 @@
   </tr>
 </table>
 
-### 🏆 Hall of Fame
+### 🏆 Hall of Fame (Trophies)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IkkanBuntal&theme=dark&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-## ☕ Support the Dev
-If you find my projects helpful, consider buying me a "health potion":  
+## 💰 Support the Journey
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ikkanbuntal)
 
 ---
