@@ -38,11 +38,10 @@ Saya siswa RPL (Rekayasa Perangkat Lunak) dan streamer yang senang mengeksploras
 ---
 
 ### 📊 GitHub Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph.svg">
-<picture>
+<p align="center">
+  <!-- Gunakan versi dark yang kontras agar terlihat di GitHub dark/light mode -->
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph-dark.svg" width="100%" />
+</p>
 <p align="center">Grafik kontribusi saya di GitHub</p>
 
 ---
