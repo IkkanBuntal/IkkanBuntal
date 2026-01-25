@@ -38,6 +38,7 @@ Saya siswa RPL (Rekayasa Perangkat Lunak) dan streamer yang senang mengeksplor t
 ---
 
 ### 📊 GitHub Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IkkanBuntal/IkkanBuntal/output/pacman-contribution-graph.svg">
