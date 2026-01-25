@@ -9,8 +9,8 @@ Saya siswa RPL (Rekayasa Perangkat Lunak) dan streamer yang senang mengeksploras
 ### 🛠 Activity & Hobi
 - Mencoba hal baru di coding
 - Main game: Valorant, Minecraft, HSR, dll
-- Suka crossdressing / femboy style (tapi tetap laki-laki)
 - Eksperimen dengan project coding dan AI kecil-kecilan
+- Penyuka femboy :3 tapi bukan gw gay, cuma suka crossdressing
 
 ---
 
@@ -47,12 +47,10 @@ Saya siswa RPL (Rekayasa Perangkat Lunak) dan streamer yang senang mengeksploras
 
 ### 📫 Contact
 - Instagram: [@ikkanbuntal](https://www.instagram.com/ikkanbuntal)
-- Twitch: [@ikkanbuntal](https://www.twitch.tv/ikkanbuntal)
 - GitHub: [IkkanBuntal](https://github.com/IkkanBuntal)
 
 ---
 
 ### ⚡ Fun Fact
 - Selalu penasaran dengan hal baru di dunia coding & game
-- Bisa eksperimen kecil-kecilan dengan AI
-- Tetap laki-laki, tapi suka crossdressing 😎
+- Btw gw laki jangan harap gw cewek
